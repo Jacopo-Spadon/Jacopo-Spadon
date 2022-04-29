@@ -3,14 +3,14 @@
 <p><em>A Data Analyst | Organizer&Logistician | Shrewd Freethinker  🌍📊📈🚚🦉
 </em></p>
 
-Fabrum esse suae quemque fortunae. Books, Plants, and Code - not necessarity in that order...
+Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarity in that order...
 
 
 📫 How to reach me:
 
 [![Linkedin: jacopospadon](https://img.shields.io/badge/-jacopospadon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jacopo-spadon-81362017/)](https://www.linkedin.com/in/jacopo-spadon-81362017/)
 [![e-mail: jacopo.spadon@gmail.com](https://img.shields.io/badge/-jacopo.spadon@gmail.com-grey?style=flat-square&logo=letter&logoColor=white&link=https://https://www.linkedin.com/in/jacopo-spadon-81362017/)](https://www.linkedin.com/in/jacopo-spadon-81362017/)
-[![Resume](https://img.shields.io/badge/CV--green?style=social&logo=read-the-docs)](https://linktr.ee/RajatGarg97)
+[![Resume](https://img.shields.io/badge/CV--green?style=social&logo=read-the-docs)](www.linkedin.com/in/jacopo-spadon-81362017/)
 
 
 
