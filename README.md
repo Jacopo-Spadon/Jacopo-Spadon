@@ -3,7 +3,7 @@
 <p><em>A Data Analyst | Organizer&Logistician | Shrewd Freethinker  🌍📊📈🚚🦉
 </em></p>
 
-Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarity in that order...
+Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in that order...
 
 
 📫 How to reach me:
