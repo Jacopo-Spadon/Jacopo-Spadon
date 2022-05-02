@@ -8,8 +8,9 @@ Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in t
 
 📫 How to reach me:
 
-[![Linkedin: jacopospadon](https://img.shields.io/badge/-JacopoSpadon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jacopo-spadon-81362017/)](https://www.linkedin.com/in/jacopo-spadon-81362017/)
+[![Linkedin: jacopospadon](https://img.shields.io/badge/-JacopoSpadon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacopo-spadon-81362017/)](https://www.linkedin.com/in/jacopo-spadon-81362017/)
 [![e-mail: jacopo.spadon@gmail.com](https://img.shields.io/badge/-📧jacopo.spadon@gmail.com-indigo?style=flat-square&logo=letter&logoColor=white&link=mailto:jacopo.spadon@gmail.com)](mailto:jacopo.spadon@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+![Skype: jacopo.spadon](https://img.shields.io/badge/-Jacopo.Spadon-blue?style=flat-square&logo=Skype&logoColor=white)
 [![Resume](https://img.shields.io/badge/-📜Resume-navy?style=flat-square&logo=letter&logoColor=white&link=https://www.canva.com/design/DAE1JuGcf7s/Y-4DLSPqgbJ5UYYDA8V7HQ/view?utm_content=DAE1JuGcf7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://www.canva.com/design/DAE1JuGcf7s/Y-4DLSPqgbJ5UYYDA8V7HQ/view?utm_content=DAE1JuGcf7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
@@ -37,6 +38,7 @@ Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in t
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=F37626)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Sql](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite&logoColor=6EA5C6)&nbsp; 
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy&logoColor=6EA5C6)&nbsp;
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
