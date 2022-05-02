@@ -8,7 +8,7 @@ Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in t
 
 📫 How to reach me:
 
-[![Linkedin: jacopospadon](https://img.shields.io/badge/-jacopospadon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jacopo-spadon-81362017/)](https://www.linkedin.com/in/jacopo-spadon-81362017/)
+[![Linkedin: jacopospadon](https://img.shields.io/badge/-JacopoSpadon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jacopo-spadon-81362017/)](https://www.linkedin.com/in/jacopo-spadon-81362017/)
 [![e-mail: jacopo.spadon@gmail.com](https://img.shields.io/badge/-📧jacopo.spadon@gmail.com-indigo?style=flat-square&logo=letter&logoColor=white&link=mailto:jacopo.spadon@gmail.com)](mailto:jacopo.spadon@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 [![Resume](https://img.shields.io/badge/-📜Resume-navy?style=flat-square&logo=letter&logoColor=white&link=https://www.canva.com/design/DAE1JuGcf7s/Y-4DLSPqgbJ5UYYDA8V7HQ/view?utm_content=DAE1JuGcf7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://www.canva.com/design/DAE1JuGcf7s/Y-4DLSPqgbJ5UYYDA8V7HQ/view?utm_content=DAE1JuGcf7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
