@@ -1,4 +1,4 @@
-# [Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jacopo](https://www.linkedin.com/in/jacopo-spadon-81362017/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> [I am Jacopo](https://www.linkedin.com/in/jacopo-spadon-81362017/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p><em>A Data Analyst | Organizer&Logistician | Shrewd Freethinker  🌍📊📈🚚🦉
 </em></p>
