@@ -37,13 +37,13 @@ Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in t
 	<br/>
  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![DataIKU](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau&logoColor=F37626)&nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Sql](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite&logoColor=6EA5C6)&nbsp; 
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn&logoColor=F7931E)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Lab-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 </details>
 
