@@ -28,7 +28,8 @@ Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in t
   <br/>
   <p align='center'>
     <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github">    <img  alt="Jacopo-Spadon's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jacopo-Spadon?cardType=octocat&theme=github" />  </a>
-     
+    <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacopo-Spadon&theme=github">    <img  alt="Jacopo-Spadon's GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacopo-Spadon&theme=github" />  </a>
+    
 </details>
 
 
@@ -48,6 +49,7 @@ Fabrum esse suae quemque fortunae. History, Bike and Code - not necessarily in t
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;
+![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 </details>
 
